@@ -1,6 +1,6 @@
 ⚽️📚🎬🏓♟️⛷️✈️♻️
 
-[<kbd> <br> Python <br> </kbd>][Link]
+[<kbd> <br> Python <br> </kbd>][PythonLink]
 
-[Link]: #'https://www.python.org/'
+[PythonLink]:https://www.python.org/
 
