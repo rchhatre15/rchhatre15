@@ -5,8 +5,6 @@
 [PythonLink]:https://github.com/rchhatre15/PythonPlayground
 [ReactLink]:https://github.com/rchhatre15/ReactPlayground
 [JavaLink]:https://github.com/rchhatre15/JavaPlayground
-[CLink]:https://github.com/rchhatre15/CPlayground
 [RustLink]:https://github.com/rchhatre15/RustPlayground
-[RubyLink]:https://github.com/rchhatre15/RubyPlayground
 [OcamlLink]:https://github.com/rchhatre15/OcamlPlayground
 
